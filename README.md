@@ -36,5 +36,5 @@ This project guides you through the process of setting up WordPress on a CentOS 
 ## Data Entry
 - Now that your WordPress installation is complete, log in and start entering data using the WordPress dashboard.
 ## Contributors
-- [Your Name](https://github.com/sathyasai-git/Install-word-Press-on-CentOS-7)
+- (https://github.com/sathyasai-git/Install-word-Press-on-CentOS-7)
 
